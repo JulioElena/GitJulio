@@ -3,7 +3,7 @@ public class ejemplo{
 	System.out.println("Hola mundo");
 	System.out.println("Añadimos la Edad");
 	System.out.println("Añadimos la localidad de nacimiento");
-
+	System.out.println("Ahora estamos en septiembre");
        
 }
   
